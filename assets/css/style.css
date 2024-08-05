@@ -1,0 +1,66 @@
+/* Estilos globales para el cuerpo del documento */
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+/* Estilos para la barra de navegación */
+.navbar {
+  background-color: rgb(241, 11, 11);
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+
+}
+
+/* Estilos para el formulario */
+#form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #2ea5d2;
+  font-size: 23px;
+  text-shadow: #918e8e 0.1em 0.1em 0.2em;
+}
+/* Estilos para el campo de entrada de número */
+#numero {
+  color: rgba(17, 0, 255, 0.582);
+  text-decoration: double;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 1px solid rgba(255, 81, 0, 0.582);
+  border-radius: 5px;
+  width: 500px;
+  font-size: medium;
+  
+
+
+}
+
+
+/* Estilos para elementos con el id "super" */
+#super {
+  color: rgba(17, 0, 255, 0.582);
+  background-color: #f4ed33;
+}
+/* Estilos para los párrafos */
+p {
+  font-size: medium;
+  color: rgba(17, 0, 255, 0.582);
+  background-color: #f4ed33;
+}
+
+/* Estilos para el cuerpo de las tarjetas */
+
+.card-body {
+
+  background-color: #f4ed33;
+  height: 370px;
+  width: 100%;
+   
+}
+.row {
+  background-color: #f4ed33;
+  }
